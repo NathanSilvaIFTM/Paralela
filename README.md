@@ -1,6 +1,6 @@
 # Prova 01
-# Resolvendo Produtor Consumidor usando Wait Notify
-# O projeto se resume a uma lista de elementos em que o produtor deseja colocar itens e o consumidor retirar, o produtor so pode colocar itens quando a lista estiver   # vazia e o cliente so pode retirar itens quando ela estiver cheia.
+# Resolvendo Produtor Consumidor usando Wait Notify.
+# O projeto se resume a uma lista de elementos em que o produtor deseja colocar itens e o consumidor retirar, o produtor so pode colocar itens quando a lista estiver vazia e o cliente so pode retirar itens quando ela estiver cheia.
 # Tecnologias usadas : Java.
 
 ### Declarando as classes Produtor e Consumidor implementando a interface runnable, criando a lista e passando como parametro em cada construtor.
